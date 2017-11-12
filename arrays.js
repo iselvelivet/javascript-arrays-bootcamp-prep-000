@@ -4,3 +4,4 @@ function addElementToBeginningOfArray (array, element) {
   var array = new Array()
   array.push(element);
 }
+addElementToBeginningOfArray(chocolateBars, 'candy');
